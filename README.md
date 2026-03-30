@@ -12,33 +12,33 @@ Many organizations struggle to clearly understand their sales performance, parti
 
 Key Insights
 
-•	The United States contributes the majority of total revenue (approximately 78%), indicating strong market dominance.
-•	A small group of products, including Crosser, Optimizer, and Warper, generate most of the revenue.
-•	Revenue is concentrated in key regions such as USA02 and USA07.
-•	Sales show an overall upward trend, with noticeable fluctuations across different periods.
-•	Some products and regions underperform, highlighting potential areas for improvement.
+-	The United States contributes the majority of total revenue (approximately 78%), indicating strong market dominance.
+-	A small group of products, including Crosser, Optimizer, and Warper, generate most of the revenue.
+- Revenue is concentrated in key regions such as USA02 and USA07.
+-	Sales show an overall upward trend, with noticeable fluctuations across different periods.
+-	Some products and regions underperform, highlighting potential areas for improvement.
 
 Recommendations
 
-•	Expand business strategies in underperforming regions to balance revenue distribution.
-•	Invest more in top-performing products to maximize profitability.
-•	Improve marketing and pricing strategies for low-performing products.
-•	Analyze peak sales periods and replicate successful strategies.
+-	Expand business strategies in underperforming regions to balance revenue distribution.
+-	Invest more in top-performing products to maximize profitability.
+-	Improve marketing and pricing strategies for low-performing products.
+-	Analyze peak sales periods and replicate successful strategies.
 
 Tools and Technologies Used
 
-•	Power BI – for dashboard development and visualization
-•	Excel – for data cleaning and preparation
-•	DAX – for calculations and measures
+- Power BI – for dashboard development and visualization
+-	Excel – for data cleaning and preparation
+-	DAX – for calculations and measures
 
 Skills Demonstrated
 
-•	Data cleaning and transformation
-•	Data modeling
-•	DAX calculations
-•	Data visualization and storytelling
-•	Business insight generation
-•	Analytical thinking
+-	Data cleaning and transformation
+-	Data modeling
+-	DAX calculations
+-	Data visualization and storytelling
+-	Business insight generation
+-	Analytical thinking
 
 About Me
 
